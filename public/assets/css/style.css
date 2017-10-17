@@ -1,0 +1,17 @@
+#main {
+    background-image: url('');
+    background-repeat: repeat;
+}
+
+.individArticle {
+    background-color: #eee;
+    padding: 20px;
+    margin: 20px;
+}
+
+#commentContainer {
+    background-color: #eee;
+    padding: 25px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
